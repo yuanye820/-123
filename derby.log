@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 25 16:21:08 CST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019a-ba1a-27de-00000eea2f60 
+on database directory C:\Users\业哥哥\Desktop\InventorySystem_Final（最终英文版）\InventoryDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@65b54208 
+Loaded from file:/C:/Users/%e4%b8%9a%e5%93%a5%e5%93%a5/Desktop/InventorySystem_Final%ef%bc%88%e6%9c%80%e7%bb%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.4+8-LTS-274
+user.dir=C:\Users\业哥哥\Desktop\InventorySystem_Final（最终英文版）
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
